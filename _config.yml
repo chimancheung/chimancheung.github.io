@@ -4,9 +4,6 @@ theme: jekyll-theme-minimal
 url: "https://chimancheung.github.io"
 baseurl: ""
 markdown: kramdown
-kramdown:
-  input: GFM
-  hard_wrap: false
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
