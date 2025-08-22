@@ -1,0 +1,12 @@
+title: "Chiman Cheung"
+description: "PhD Candidate, Agricultural & Resource Economics, UC Berkeley"
+theme: jekyll-theme-minimal
+url: "https://chimancheung.com"
+baseurl: ""
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
