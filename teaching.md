@@ -16,6 +16,10 @@ permalink: /teaching/
   <div class="grid">
     <div class="sidebar">
       <img src="/assets/img/headshot.jpg" alt="Headshot of Chiman Cheung">
+      <div class="links">
+        <a href="/">Research</a>
+        <a href="/teaching/">Teaching</a>
+      </div>
       <div class="contact">
         <div><strong>Contact</strong></div>
         <div>+1 (341) 333‑8538 <span style="color:#666;">(mobile)</span></div>
