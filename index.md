@@ -41,7 +41,7 @@ permalink: /
         <div class="controls">
           <button class="toggle-abs" onclick="toggleAbstract('abs-india-roads', this)">show abstract</button>
           &nbsp;|&nbsp;
-          <a href="/papers/pol_audit_v3_0919.pdf" target="_blank" rel="noopener">new working paper</a>
+          <a href="/papers/pol_audit_v3_0919.pdf" target="_blank" rel="noopener">working paper</a>
         </div>
         <div id="abs-india-roads" class="abstract" hidden>Despite a growing literature on the importance of keeping voters informed about politicians' actions, independent and impartial information disclosure systems are exceptions rather than norms in low-capacity states. This research documents the political influence in distorting road quality audits in PMGSY, a nationwide rural road-building program in India. Comparing state-level road quality audit reports around the 2015 Bihar election, I estimate a 7.4 pp reported quality differential by party alignment between legislative constituency and state ruling government (over the sample average satisfactory rate of 64.9%). One-third of the differential can be explained by the assignment of auditors of different leniency. I also find evidence consistent with politicians delaying the inspections of roads of unsatisfactory quality in aligned constituencies until after the election. The same patterns are not observed in the national-level audits, which state-level governments have no control over. The results taken together suggest that out of electoral concerns, the state ruling party manipulates the reporting of audit outcomes, against the hypothesis of resource targeting to improve actual public good provision.</div>
       </div>
@@ -52,7 +52,7 @@ permalink: /
         <div class="controls">
           <button class="toggle-abs" onclick="toggleAbstract('abs-edutainment', this)">show abstract</button>
           &nbsp;|&nbsp;
-          <a href="/papers/edutainment_documentary_ghana.pdf" target="_blank" rel="noopener">new working paper</a>
+          <a href="/papers/edutainment_documentary_ghana.pdf" target="_blank" rel="noopener">working paper</a>
         </div>
         <div class="funding">Funded by JPAL Governance Initiative ($46,772), Weiss ($45,872), IGC (GBP 20,000), and CEGA ($19,208).</div>
         <div id="abs-edutainment" class="abstract" hidden>Abstract coming soon.</div>
@@ -67,7 +67,7 @@ permalink: /
         <div class="controls">
           <button class="toggle-abs" onclick="toggleAbstract('abs-digital-payments', this)">show abstract</button>
           &nbsp;|&nbsp;
-          <a href="/papers/digital_payments.pdf" target="_blank" rel="noopener">new working paper</a>
+          <a href="/papers/digital_payments.pdf" target="_blank" rel="noopener">published version</a>
         </div>
         <div id="abs-digital-payments" class="abstract" hidden>Despite the rapid growth in digital payments (DP) adoption and its positive socio-economic impacts in low-income countries, a large portion of the population remains disconnected from DP. At the same time, usage of DP conditional on adoption is low, highlighting the unexplored potential for financial inclusion and economic advancement. This paper reviews the burgeoning academic literature on DP and categorizes both macro-level adoption barriers (extensive margin) and micro-level usage challenges (intensive margin). We draw on the Transaction Cost Index, a new comprehensive database encompassing 16 low-income countries, to shed light on major themes in markets for DP. We conclude by outlining potential avenues for future research in this area.</div>
       </div>
@@ -80,8 +80,6 @@ permalink: /
         <div class="funding">Funded by Weiss ($44,305).</div>
         <div class="controls">
           <button class="toggle-abs" onclick="toggleAbstract('abs-wta-ghana', this)">show abstract</button>
-          &nbsp;|&nbsp;
-          <a href="#" onclick="return false;">new working paper</a>
         </div>
         <div id="abs-wta-ghana" class="abstract" hidden>Abstract coming soon.</div>
       </div>
