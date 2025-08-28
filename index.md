@@ -35,7 +35,7 @@ permalink: /
       <h3>Working Papers</h3>
 
       <div class="paper">
-        <h4>Collective Environmental Action Through Edutainment: Evidence from a Health Documentary in Ghana’s Gold Mining Communities</h4>
+        <h4>Does Information Spur Collective Action Against Environmental Harms? Experimental Evidence from Ghana’s Galamsey</h4>
         <div class="byline">Chiman Cheung</div>
         <div class="controls">
           <button class="toggle-abs" onclick="toggleAbstract('abs-edutainment', this)">show abstract</button>
