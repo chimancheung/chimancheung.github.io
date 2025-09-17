@@ -76,8 +76,18 @@ permalink: /
 
       <div class="paper">
         <h4>Eliciting and Utilizing Willingness to Accept Information: Evidence from Mining Communities in Ghana</h4>
-        <div class="byline">Chiman Cheung</div>
+        <div class="byline">Chiman Cheung, Ei Thandar Myint</div>
         <div class="funding">Funded by Weiss ($44,305).</div>
+        <div class="controls">
+          <button class="toggle-abs" onclick="toggleAbstract('abs-wta-ghana', this)">show abstract</button>
+        </div>
+        <div id="abs-wta-ghana" class="abstract" hidden>Abstract coming soon.</div>
+      </div>
+
+      <div class="paper">
+        <h4>Internet Access in Post-Conflict Recovery: Experimental Evidence from Liberated Areas in Myanmar</h4>
+        <div class="byline">Chiman Cheung, Ei Thandar Myint</div>
+        <div class="funding">Funded by Weiss ($14,462) and CEGA ($5,000).</div>
         <div class="controls">
           <button class="toggle-abs" onclick="toggleAbstract('abs-wta-ghana', this)">show abstract</button>
         </div>
