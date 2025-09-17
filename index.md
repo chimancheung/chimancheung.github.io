@@ -89,9 +89,9 @@ permalink: /
         <div class="byline">Chiman Cheung, Ei Thandar Myint</div>
         <div class="funding">Funded by Weiss ($14,462) and CEGA ($5,000).</div>
         <div class="controls">
-          <button class="toggle-abs" onclick="toggleAbstract('abs-wta-ghana', this)">show abstract</button>
+          <button class="toggle-abs" onclick="toggleAbstract('abs-internet-myanmar', this)">show abstract</button>
         </div>
-        <div id="abs-wta-ghana" class="abstract" hidden>Abstract coming soon.</div>
+        <div id="abs-internet-myanmar" class="abstract" hidden>Abstract coming soon.</div>
       </div>
 
     </div>
