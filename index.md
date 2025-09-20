@@ -88,7 +88,7 @@ permalink: /
       <div class="paper">
         <h4>Digital Innovation in Ghana - Interventions Targeted at Addressing Leakage (DIGITAL)</h4>
         <div class="byline">Francis Annan, Patrick Asuming, Stefano Carattini, Chiman Cheung, Justice Mensah, </div>
-        <div class="funding">Funded by JPAL King Climate Action Initiative ($254,000).</div>
+        <div class="funding">Funded by JPAL King Climate Action Initiative ($200,054).</div>
         <div class="controls">
           <button class="toggle-abs" onclick="toggleAbstract('abs-digital', this)">show abstract</button>
         </div>
