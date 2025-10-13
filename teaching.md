@@ -15,7 +15,7 @@ permalink: /teaching/
 
   <div class="grid">
     <div class="sidebar">
-      <img src="/assets/img/headshot_cheung.jpg" alt="Headshot of Chiman Cheung">
+      <img src="/assets/img/headshot_cheung.jpeg" alt="Headshot of Chiman Cheung">
       <div class="links">
         <a href="/">Research</a>
         <a href="/teaching/">Teaching</a>
