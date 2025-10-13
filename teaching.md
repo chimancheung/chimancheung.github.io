@@ -31,6 +31,7 @@ permalink: /teaching/
     <div class="main section">
       <h3>Teaching (UC Berkeley)</h3>
       <ul>
+        <li><strong>Data and Decisions (MBA)</strong> — <em>Fall 2025</em></li>
         <li><strong>Environmental Economics</strong> — <em>Fall 2024</em></li>
         <li><strong>Intermediate Microeconomics</strong> — <em>Spring 2022, Fall 2022, Fall 2023, Spring 2025</em></li>
         <li><strong>Introduction to Economics</strong> — <em>Spring 2021</em></li>
