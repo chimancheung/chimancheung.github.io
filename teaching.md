@@ -17,7 +17,7 @@ permalink: /teaching/
     <div class="sidebar">
       <img src="/assets/img/headshot_cheung.jpeg" alt="Headshot of Chiman Cheung">
       <div class="links">
-        <a href="/">Research</a><br>
+        <a href="/">Research</a>
         <a href="/teaching/">Teaching</a>
       </div>
       <div class="contact">
@@ -43,8 +43,7 @@ permalink: /teaching/
       <p>
         I am currently teaching Data and Decisions (MBA) at the Haas School of Business in Fall 2025.
         My teaching statement is available
-        <a href="/assets/docs/Cheung_teaching_statement.pdf" target="_blank" rel="noopener">here</a>.
-        , and the full set of evaluation reports can be downloaded
+        <a href="/assets/docs/Cheung_teaching_statement.pdf" target="_blank" rel="noopener">here</a>, and the full set of evaluation reports can be downloaded
         <a href="/assets/docs/Cheung_teaching_evaluation_reports.zip" target="_blank" rel="noopener">here</a>.
       </p>
     </div>
