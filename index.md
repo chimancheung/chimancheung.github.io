@@ -35,7 +35,7 @@ permalink: /
       <h3>Working Papers</h3>
 
       <div class="paper">
-        <h4>Does Information and Collective Will Against Environmental Harms: Experimental Evidence from Ghana’s <em>Galamsey</em></h4>
+        <h4>Information and Collective Will Against Environmental Harms: Experimental Evidence from Ghana’s <em>Galamsey</em></h4>
         <div class="byline">Chiman Cheung</div>
         <div class="controls">
           <button class="toggle-abs" onclick="toggleAbstract('abs-edutainment', this)">show abstract</button>
