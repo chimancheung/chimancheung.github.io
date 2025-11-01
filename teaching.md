@@ -43,9 +43,9 @@ permalink: /teaching/
       <p>
         I’m currently teaching <em>Data and Decisions (MBA)</em> at Haas Business School in Fall 2025.
         My teaching statement can be downloaded
-        <a href="/assets/docs/Teaching_Statement.pdf" target="_blank" rel="noopener">here</a>.
+        <a href="/assets/docs/Cheung_teaching_statement.pdf" target="_blank" rel="noopener">here</a>.
         The full set of evaluation reports can be downloaded
-        <a href="/assets/docs/Teaching_Evaluations.zip" target="_blank" rel="noopener">here</a>.
+        <a href="/assets/docs/Cheung_teaching_evaluation_reports.zip" target="_blank" rel="noopener">here</a>.
       </p>
     </div>
   </div>
