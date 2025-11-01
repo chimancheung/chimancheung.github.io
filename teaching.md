@@ -32,7 +32,7 @@ permalink: /teaching/
       <h3>Teaching (UC Berkeley)</h3>
 
       <figure style="margin:0;">
-        <img src="/assets/img/teaching_eval_vs_dept.jpeg"
+        <img src="/assets/img/teaching_eval_vs_dept.png"
              alt="Bar chart comparing my teaching evaluation means to department means (1–7 scale) by course and term."
              style="max-width:100%;height:auto;border:1px solid #eee;">
         <figcaption style="font-size:0.9rem;color:#555;margin-top:6px;">
