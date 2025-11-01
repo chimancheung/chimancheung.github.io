@@ -37,13 +37,13 @@ permalink: /
       <div class="paper">
         <h4>Information and Collective Will Against Environmental Harms: Experimental Evidence from Ghana’s <em>Galamsey</em></h4>
         <div class="byline">Chiman Cheung</div>
+        <div class="funding">Funded by JPAL Governance Initiative ($46,772), Weiss ($45,872), IGC (GBP 20,000), and CEGA ($19,208).</div>
         <div class="controls">
           <button class="toggle-abs" onclick="toggleAbstract('abs-edutainment', this)">show abstract</button>
           &nbsp;|&nbsp;
           <a href="/papers/galamsey.pdf" target="_blank" rel="noopener">Working paper</a>
           <!-- <span style="color:#666;">Draft coming soon</span> -->
         </div>
-        <div class="funding">Funded by JPAL Governance Initiative ($46,772), Weiss ($45,872), IGC (GBP 20,000), and CEGA ($19,208).</div>
         <div id="abs-edutainment" class="abstract" hidden>Information can mobilize community collective action against environmental harms, but its impact depends on how it is delivered and by whom. Local leaders can transmit and legitimize new information, or distort and suppress it when incentives misalign. We study these trade-offs in the context of artisanal and small-scale gold mining (<em>galamsey</em>) in Ghana. In a cluster randomized controlled trial across 99 affected communities, stratified by leaders’ conflicts of interest, we screened a documentary on mercury’s health risks either privately to leaders (traditional local chiefs) or publicly to both leaders and community members. Leader-only screenings improved health-risk learning among chiefs but had no detectable effects on community learning, participation, or preferences for local mining rules. Public screenings, in contrast, increased community learning and participation, as reflected in higher sign-ups for regular meetings and more time spent discussing <em>galamsey</em>. When paired with non-conflicted leaders, they also shifted community preferences toward stricter mining bylaws, whereas under conflicted leaders, they instead polarized these preferences. Together, the results suggest that building consensus and mobilizing community collective action requires both an informed public and non-conflicted leadership; neither alone is sufficient.</div>
       </div>
 
