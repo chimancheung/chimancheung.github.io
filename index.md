@@ -30,12 +30,12 @@ permalink: /
 
     <div class="main">
 
-      <p>I am a PhD candidate in Agricultural and Resource Economics and a Rocca Fellow for African Studies at UC&nbsp;Berkeley. My CV is <a href="/assets/cv/Chiman_Cheung_CV.pdf" target="_blank" rel="noopener">here</a>.</p>
+      <p>I am a PhD candidate in Agricultural and Resource Economics and a Rocca Fellow for African Studies at UC&nbsp;Berkeley. I am a development and political economist specializing in environmental governance. My CV is <a href="/assets/cv/Chiman_Cheung_CV.pdf" target="_blank" rel="noopener">here</a>.</p>
 
       <h3>Working Papers</h3>
 
       <div class="paper">
-        <h4>Does Information Spur Collective Action Against Environmental Harms? Experimental Evidence from Ghana’s <em>Galamsey</em></h4>
+        <h4>Does Information and Collective Will Against Environmental Harms: Experimental Evidence from Ghana’s <em>Galamsey</em></h4>
         <div class="byline">Chiman Cheung</div>
         <div class="controls">
           <button class="toggle-abs" onclick="toggleAbstract('abs-edutainment', this)">show abstract</button>
@@ -104,6 +104,19 @@ permalink: /
         </div>
         <div id="abs-internet-myanmar" class="abstract" hidden>Abstract coming soon.</div>
       </div>
+
+      
+      <div class="paper">
+        <h4>A Comprehensive Accounting of the Health Costs of Artisanal and Small-Scale Gold Mining in Ghana</h4>
+        <div class="byline">Chiman Cheung</div>
+        <div class="byline">Data secured through partnership with the Ghana Health Service</div>
+        <div class="controls">
+          <button class="toggle-abs" onclick="toggleAbstract('abs-accounting-galamsey', this)">show abstract</button>
+        </div>
+        <div id="abs-accounting-galamsey" class="abstract" hidden>Abstract coming soon.</div>
+      </div>
+
+      
 
     </div>
   </div>
