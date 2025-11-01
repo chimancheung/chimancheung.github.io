@@ -30,7 +30,7 @@ permalink: /
 
     <div class="main">
 
-      <p>I am a PhD candidate in Agricultural and Resource Economics and a Rocca Fellow for African Studies at UC&nbsp;Berkeley. I am a development and political economist specializing in environmental governance. My CV is <a href="/assets/cv/Chiman_Cheung_CV.pdf" target="_blank" rel="noopener">here</a>.</p>
+      <p>I am a PhD candidate in Agricultural and Resource Economics and a Rocca Fellow for African Studies at UC&nbsp;Berkeley. I am a development and political economist specializing in environmental governance. My CV is <a href="/assets/cv/Cheung_CV.pdf" target="_blank" rel="noopener">here</a>.</p>
 
       <h3>Working Papers</h3>
 
