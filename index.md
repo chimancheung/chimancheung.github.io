@@ -107,7 +107,7 @@ permalink: /
 
       
       <div class="paper">
-        <h4>A Comprehensive Accounting of the Health Costs of Artisanal and Small-Scale Gold Mining in Ghana</h4>
+        <h4>A Comprehensive Accounting of the Health Costs of Artisanal and Small-Scale Gold Mining</h4>
         <div class="byline">Chiman Cheung</div>
         <div class="byline">Data secured through partnership with the Ghana Health Service</div>
         <div class="controls">
