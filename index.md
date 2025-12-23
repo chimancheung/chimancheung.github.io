@@ -81,23 +81,13 @@ permalink: /
       <h3>Work in Progress</h3>
 
       <div class="paper">
-        <h4>Eliciting and Utilizing Willingness to Accept Information: Evidence from Mining Communities in Ghana</h4>
-        <div class="byline">Chiman Cheung, Ei Thandar Myint</div>
-        <div class="funding">Funded by Weiss ($44,305).</div>
-        <div class="controls">
-          <button class="toggle-abs" onclick="toggleAbstract('abs-wta-ghana', this)">show abstract</button>
-        </div>
-        <div id="abs-wta-ghana" class="abstract" hidden>Abstract coming soon.</div>
-      </div>
-
-      <div class="paper">
         <h4>Digital Innovation in Ghana - Interventions Targeted at Addressing Leakage (DIGITAL)</h4>
         <div class="byline">Francis Annan, Patrick Asuming, Stefano Carattini, Chiman Cheung, Justice Mensah</div>
         <div class="funding">Funded by JPAL King Climate Action Initiative ($200,054).</div>
         <div class="controls">
           <button class="toggle-abs" onclick="toggleAbstract('abs-digital', this)">show abstract</button>
         </div>
-        <div id="abs-digital" class="abstract" hidden>Abstract coming soon.</div>
+        <div id="abs-digital" class="abstract" hidden>In partnership with Ghana’s National Petroleum Authority, this project evaluates a reform to the distribution of in-kind fuel subsidies in rural fishing communities. Under the status quo system, local community leaders determine subsidy recipients, generating two distortions: political targeting, where households affiliated with opposition parties are less likely to receive subsidized fuel, and diversion to the black market, whereby leaders resell high-quality subsidized fuel that is subsequently diluted and sold back to fishermen. The reform introduces a digital distribution system requiring fishermen to authenticate their identity using biometric cards at fuel pumping stations. The study tests whether digitization reduces political bias in subsidy allocation and, by curbing diversion, improves fuel quality and lowers marine pollution. The evaluation is being implemented in five rollout waves; the first wave has been completed, and the remaining waves will be rolled out over the next two years.</div>
       </div>
 
       <div class="paper">
@@ -107,7 +97,7 @@ permalink: /
         <div class="controls">
           <button class="toggle-abs" onclick="toggleAbstract('abs-internet-myanmar', this)">show abstract</button>
         </div>
-        <div id="abs-internet-myanmar" class="abstract" hidden>Abstract coming soon.</div>
+        <div id="abs-internet-myanmar" class="abstract" hidden>We study how restoring internet connectivity after military-imposed internet shutdowns in post-conflict Myanmar shapes belief formation and civic participation. We are piloting an intervention that connects participants to the internet through randomized subsidies for using Starlink-powered community internet cafés.</div>
       </div>
 
       
@@ -118,9 +108,19 @@ permalink: /
         <div class="controls">
           <button class="toggle-abs" onclick="toggleAbstract('abs-accounting-galamsey', this)">show abstract</button>
         </div>
-        <div id="abs-accounting-galamsey" class="abstract" hidden>Abstract coming soon.</div>
+        <div id="abs-accounting-galamsey" class="abstract" hidden>This project combines administrative health records from the Ghana Health Service, covering 4,907 health facilities nationwide and a wide range of annual health outcomes, with remote-sensing measures of informal mining activity to provide the first comprehensive estimate of the health impacts of informal mining. Leveraging the breadth of observed health conditions, the analysis documents not only negative environmental pollution pathways but also potential positive income-related channels, such as improved nutrition. Examining both channels is important given the labor-intensive nature of informal mining, which employs an estimated 14-19 million people globally. The project contributes to a literature that has largely focused on capital-intensive industrial mining and a much narrower set of health outcomes. Beyond Ghana, this work serves as a case study for a broader analysis using Demographic and Health Survey data and comparable remote-sensing measures to estimate the health impacts of informal mining across Sub-Saharan Africa.</div>
       </div>
 
+
+      <div class="paper">
+        <h4>Eliciting and Utilizing Willingness to Accept Information: Evidence from Mining Communities in Ghana</h4>
+        <div class="byline">Chiman Cheung, Ei Thandar Myint</div>
+        <div class="funding">Funded by Weiss ($44,305).</div>
+        <div class="controls">
+          <button class="toggle-abs" onclick="toggleAbstract('abs-wta-ghana', this)">show abstract</button>
+        </div>
+        <div id="abs-wta-ghana" class="abstract" hidden>Abstract coming soon.</div>
+      </div>
       
 
     </div>
