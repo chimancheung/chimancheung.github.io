@@ -30,12 +30,12 @@ permalink: /
 
     <div class="main">
 
-      <p>I am a PhD candidate in Agricultural and Resource Economics and a Rocca Fellow for African Studies at UC&nbsp;Berkeley. I am an applied economist studying political economy and environmental economics in developing countries. My CV is <a href="/assets/cv/Cheung_CV.pdf" target="_blank" rel="noopener">here</a>.</p>
+      <p>I am a PhD candidate in Agricultural and Resource Economics and a Rocca Fellow for African Studies at UC&nbsp;Berkeley. I am an applied economist studying political economy and environmental economics in developing countries. I am on the 2025-2026 job market. My CV is <a href="/assets/cv/Cheung_CV.pdf" target="_blank" rel="noopener">here</a>.</p>
 
       <h3>Working Papers</h3>
 
       <div class="paper">
-        <h4>Information and Collective Will Against Environmental Harms: Experimental Evidence from Ghana’s <em>Galamsey</em></h4>
+        <h4>Information and Collective Will Against Environmental Harms: Experimental Evidence from Ghana’s <em>Galamsey</em> (Job Market Paper)</h4>
         <div class="byline">Chiman Cheung</div>
         <div class="funding">Funded by JPAL Governance Initiative ($46,772), Weiss ($45,872), IGC (GBP 20,000), and CEGA ($19,208).</div>
         <div class="controls">
